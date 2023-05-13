@@ -1,0 +1,145 @@
+<h1>EFECTS</h1>
+
+<a target="_blank" href="https://typejs.org/">https://typejs.org/</a>
+
+<a target="_blank" href="https://mattboldt.github.io/typed.js/">https://mattboldt.github.io/typed.js/</a>
+
+<a target="_blank" href="https://tobiasahlin.com/moving-letters/">https://tobiasahlin.com/moving-letters/</a>
+
+<hr>
+
+<h1>ANIMATIONS</h1>
+
+<a target="_blank" href="https://animate.style/">https://animate.style/</a>
+
+<a target="_blank" href="https://animista.net/">https://animista.net/</a>
+
+<hr>
+
+<h1>EXTRAS</h1>
+
+<a target="_blank" href="https://alvarotrigo.com/fullPage/">https://alvarotrigo.com/fullPage/</a>
+
+<a target="_blank" href="https://owlcarousel2.github.io/OwlCarousel2/">https://owlcarousel2.github.io/OwlCarousel2/</a>
+
+<hr>
+
+<h1>TOAST</h1>
+
+<a target="_blank" href="https://ngx-toastr.vercel.app/">https://ngx-toastr.vercel.app/</a>
+
+<a target="_blank" href="https://simple-notify.github.io/simple-notify/">https://simple-notify.github.io/simple-notify/</a>
+
+<a target="_blank" href="https://carlosroso.com/notyf/">https://carlosroso.com/notyf/</a>
+
+<a target="_blank" href="https://apvarun.github.io/toastify-js/#">https://apvarun.github.io/toastify-js/#</a>
+
+<a target="_blank" href="https://sweetalert2.github.io/">https://sweetalert2.github.io/</a>
+
+<a target="_blank" href="https://github.com/talsu/vanilla-toast">https://github.com/talsu/vanilla-toast</a>
+
+<a target="_blank" href="https://www.solid-toast.com/">https://www.solid-toast.com/</a>
+
+<hr>
+
+<h1>LOADERS</h1>
+
+<a target="_blank" href="https://loading.io/css/">https://loading.io/css/</a>
+
+<a target="_blank" href="https://uiverse.io/loaders">https://uiverse.io/loaders</a>
+
+<a target="_blank" href="https://cssloaders.github.io/">https://cssloaders.github.io/</a>
+
+<a target="_blank" href="https://tobiasahlin.com/spinkit/">https://tobiasahlin.com/spinkit/</a>
+
+<a target="_blank" href="https://projects.lukehaas.me/css-loaders/">https://projects.lukehaas.me/css-loaders/</a>
+
+<a target="_blank" href="https://365webresources.com/best-pure-css-loading-spinners/">https://365webresources.com/best-pure-css-loading-spinners/</a>
+
+<hr>
+
+<h1>SVG</h1>
+
+<a target="_blank" href="https://undraw.co/illustrations">https://undraw.co/illustrations</a>
+
+<hr>
+
+<h1>ICONS</h1>
+
+<a target="_blank" href="https://www.flaticon.es/">https://www.flaticon.es/</a>
+
+<hr>
+
+<h1>INPUTS</h1>
+
+<a target="_blank" href="https://uiverse.io/inputs">https://uiverse.io/inputs</a>
+
+<hr>
+
+<h1>BUTTONS</h1>
+
+<a target="_blank" href="https://uiverse.io/buttons">https://uiverse.io/buttons</a>
+
+<a target="_blank" href="https://ui-buttons.web.app/">https://ui-buttons.web.app/</a>
+
+<a target="_blank" href="https://getcssscan.com/css-buttons-examples">https://getcssscan.com/css-buttons-examples</a>
+
+<a target="_blank" href="https://uifresh.net/css-button-style-animation-examples/">https://uifresh.net/css-button-style-animation-examples/</a>
+
+<a target="_blank" href="https://webdeasy.de/en/top-css-buttons-en/">https://webdeasy.de/en/top-css-buttons-en/</a>
+
+<hr>
+
+<h1>FORMS</h1>
+
+<a target="_blank" href="https://uiverse.io/forms">https://uiverse.io/forms</a>
+
+<a target="_blank" href="https://freshdesignweb.com/css-login-form-templates/">https://freshdesignweb.com/css-login-form-templates/</a>
+
+<hr>
+
+<h1>GRAPHICS</h1>
+
+<a target="_blank" href="https://www.chartjs.org/">https://www.chartjs.org/</a>
+
+<hr>
+
+<h1>ANGULAR</h1>
+
+<a target="_blank" href="https://material.angular.io/">https://material.angular.io/</a>
+
+<a target="_blank" href="https://primeng.org/">https://primeng.org/</a>
+
+<hr>
+
+<h1>CSS</h1>
+
+<a target="_blank" href="https://getbootstrap.com/">https://getbootstrap.com/</a>
+
+<a target="_blank" href="https://tailwindcss.com/">https://tailwindcss.com/</a>
+
+<a target="_blank" href="https://picocss.com/">https://picocss.com/</a>
+
+<a target="_blank" href="https://bulma.io/">https://bulma.io/</a>
+
+<a target="_blank" href="https://flowbite.com/">https://flowbite.com/</a>
+
+<hr>
+
+<h1>API </h1>
+
+<a target="_blank" href="https://jsonplaceholder.typicode.com/">https://jsonplaceholder.typicode.com/</a>
+
+<a target="_blank" href="https://restcountries.com/">https://restcountries.com/</a>
+
+<a target="_blank" href="https://www.thecocktaildb.com/api.php">https://www.thecocktaildb.com/api.php</a>
+
+<hr>
+
+<h1>SEE IT LATER</h1>
+
+<a target="_blank" href="https://codepen.io/abxlfazl/details/VwKzaEm">https://codepen.io/abxlfazl/details/VwKzaEm</a>
+
+<a target="_blank" href="https://www.freecodecamp.org/news/how-to-build-skeleton-screens-using-css-for-better-user-experience/">https://www.freecodecamp.org/news/how-to-build-skeleton-screens-using-css-for-better-user-experience/</a>
+
+<a target="_blank" href="https://365webresources.com/latest-free-dashboard-admin-frameworks-for-front-end-developers/">https://365webresources.com/latest-free-dashboard-admin-frameworks-for-front-end-developers/</a>
