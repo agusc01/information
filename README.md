@@ -132,6 +132,8 @@
 
 <a target="_blank" href="https://restcountries.com/">https://restcountries.com/</a>
 
+<a target="_blank" href="https://developer.marvel.com/documentation/generalinfo">https://developer.marvel.com/documentation/generalinfo</a>
+
 <a target="_blank" href="https://www.thecocktaildb.com/api.php">https://www.thecocktaildb.com/api.php</a>
 
 <hr>
