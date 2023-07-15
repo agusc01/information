@@ -1,3 +1,11 @@
+<h1>EMAILS</h1>
+
+<a target="_blank" href="https://tempail.com/es/">https://tempail.com/es/</a>
+
+<a target="_blank" href="https://10minutemail.com/">https://10minutemail.com/</a>
+
+<hr>
+
 <h1>EFECTS</h1>
 
 <a target="_blank" href="https://typejs.org/">https://typejs.org/</a>
